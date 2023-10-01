@@ -1,6 +1,6 @@
-# Advent of Code Helper Template
+# David's Advent of Code Utils
 
-This is my tried-and-true Python helper package for the phenomenal [Advent of Code](https://adventofcode.com/) puzzles. It handles creating stub solutions, input parsing, and printing your answer, letting you focus on the actual solve. I've been [using it since 2017](https://github.com/xavdid/advent-of-code).
+This is my tried-and-true Python utility package for the phenomenal [Advent of Code](https://adventofcode.com/) puzzles. It handles creating stub solutions, input parsing, and printing your answer, letting you focus on the actual solve. I've been [using it since 2017](https://github.com/xavdid/advent-of-code).
 
 Additionally, Over in the main repo, I include a step-by-step [explanation of each puzzle](https://github.com/xavdid/advent-of-code/tree/main/solutions) if you're in the learning mood!
 
@@ -8,7 +8,7 @@ Additionally, Over in the main repo, I include a step-by-step [explanation of ea
 
 To use this base class for your own solutions:
 
-1. Ensure you have Python 3.11 or higher. You can use [pyenv](https://github.com/pyenv/pyenv) or [asdf](https://asdf-vm.com/) to manage your Python versions
+1. Ensure you have Python `3.11` or higher. You can use [pyenv](https://github.com/pyenv/pyenv) or [asdf](https://asdf-vm.com/) to manage your Python versions
 2. Create a new repo using this template ([docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)) and clone it locally
 3. Start a new solution using `./start`
 4. Edit the newly created file at `solutions/YEAR/day_01/solution.py`
