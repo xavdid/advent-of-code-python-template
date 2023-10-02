@@ -29,6 +29,7 @@ The following changes are breaking updates from my [existing solutions](https://
 - :exclamation: remove all my custom helpers; it's up to you now!
 - :exclamation: rename `BaseSolution.debug` to `.is_debugging`
 - :exclamation: remove the `BaseSolution.newline` function - it was undocumented and now exists as a `kwarg` on `BaseSolution.debug`
+- :exclamation: require Python `3.12`. There were no code changes associated with change, but this serves as the official warning that `3.12`-specific additions may happen with no further breaking change notifications
 
 ---
 

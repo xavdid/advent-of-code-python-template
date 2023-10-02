@@ -8,7 +8,7 @@ Additionally, Over in the main repo, I include a step-by-step [explanation of ea
 
 To use this base class for your own solutions:
 
-1. Ensure you have Python `3.11` or higher. You can use [pyenv](https://github.com/pyenv/pyenv) or [asdf](https://asdf-vm.com/) to manage your Python versions
+1. Ensure you have Python `3.12` or higher. You can use [pyenv](https://github.com/pyenv/pyenv) or [asdf](https://asdf-vm.com/) to manage your Python versions. It may work on older versions, but `3.12`-specific features will be added without further breaking changes
 2. Create a new repo using this template ([docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)) and clone it locally
 3. Start a new solution using `./start`
 4. Edit the newly created file at `solutions/YEAR/day_01/solution.py`
