@@ -1,8 +1,8 @@
-# David's Advent of Code Utils
+# @xavdid's Python Advent of Code Project Template
 
 This is my tried-and-true Python utility package for the phenomenal [Advent of Code](https://adventofcode.com/) puzzles. It handles creating stub solutions, input parsing, and printing your answer, letting you focus on the actual solve. I've been [using it since 2017](https://github.com/xavdid/advent-of-code).
 
-Additionally, Over in the main repo, I include a step-by-step [explanation of each puzzle](https://github.com/xavdid/advent-of-code/tree/main/solutions) if you're in the learning mood!
+Additionally, Over in the main repo, I include a step-by-step [explanation of each puzzle](https://advent-of-code.xavd.id/) if you're in the learning mood!
 
 ## Quickstart
 
