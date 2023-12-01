@@ -10,6 +10,12 @@ Below is a rough changelog of new features added, which largely follows [SemVer]
 
 ## 4.0.0
 
+_released `2023-11-30`_
+
+- improve error message when an `@answer` assertion fails
+
+## 4.0.0
+
 _released `2023-09-30`_
 
 This repo is now [a GitHub template](https://github.com/xavdid/advent-of-code-python-template)! It's easier than ever to use it for your solutions. See [the README](https://github.com/xavdid/advent-of-code-python-template/#quickstart) for more info.
