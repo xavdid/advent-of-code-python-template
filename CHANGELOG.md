@@ -13,6 +13,7 @@ Below is a rough changelog of new features added, which largely follows [SemVer]
 _released `2024-11-30`_
 
 - Update default input parsing in new solutions from `TextSolution` to `StrSplitSolution` (so input is treated as a list of strings by default)
+- update ruff config
 
 ## 4.0.2
 

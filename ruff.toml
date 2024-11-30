@@ -11,16 +11,23 @@ select = [
   "RSE",  # no parens on exceptions that lack args
   "RET",  # more correct return behavior
   "SIM",  # general style things
-  "TCH",  # type-only imports should be in a typecheck block
+  "TC",   # type-only imports should be in a typecheck block
   "ARG",  # unused args
   "PTH",  # use pathlib
   "FLY",  # short "".join calls
   "PERF", # performance hints
+  "PL",   # pylint, general recommendations
+  # "RUF", # these are a little picky for me
 ]
 
 ignore = [
-  "E501", # skip enforcing line length
-  "E741", # ignore short variable names
+  "E501",    # skip enforcing line length
+  "E741",    # ignore short variable names
+  "PLR2004", # magic values
+  "PLR0911", # too many returns
+  "PLR0912", # too many branches
+  "PLR0913", # too many arguments
+  'Q000',    # single quotes; handled by formatter
 ]
 
 unfixable = [
