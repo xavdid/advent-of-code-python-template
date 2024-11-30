@@ -8,6 +8,12 @@ Below is a rough changelog of new features added, which largely follows [SemVer]
 - Minor versions add new, backwards-compatible features you may want to start using
 - Patch versions are internal functionality updates or changes to the template that won't affect compatibility with existing solutions
 
+## 4.0.3
+
+_released `2024-11-30`_
+
+- Update default input parsing in new solutions from `TextSolution` to `StrSplitSolution` (so input is treated as a list of strings by default)
+
 ## 4.0.2
 
 _released `2024-08-17`_
